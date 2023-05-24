@@ -1,16 +1,28 @@
-# cedra
+# Cedra Link Flutter
 
-A new Flutter project.
+Android application for Cedra Link.
+
+## Tools
+
+- Dart Version - 3.0.1
+- Flutter Version - 3.10.1
+- DevTools Version - 2.23.1
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+# install dependencies
+$ flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+# run on attached device
+$ flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# analyze code with flutter_lints
+$ flutter analyze
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev)
+- [Dart Documentation](https://dart.dev)
+- [Flutter Developer Roadmap](https://roadmap.sh/flutter)
