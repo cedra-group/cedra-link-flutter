@@ -1,6 +1,6 @@
 import 'package:cedra/common/constants/common_colors.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:cedra/modules/home/views/home_view.dart';
+import 'package:flutter/cupertino.dart';
 
 void main() {
   runApp(const App());
